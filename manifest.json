@@ -1,0 +1,16 @@
+{
+  "name": "Budget",
+  "short_name": "Budget",
+  "description": "A simply budgeting app that makes predictions",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "density": 1
+    }
+  ]
+}

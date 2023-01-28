@@ -1,0 +1,44 @@
+{
+	"id" : "en",
+	"menu" : {
+		"expense": "TRANSACTIONS",
+		"newExpense" : "NEW",
+		"settings" : "SETTINGS",
+		"categories" : "CATEGORIES",
+		"category" : "CATEGORY",
+		"reset" : "RESET",
+		"erase" : "DELETE"
+	},
+	"day" : [ 
+				"Sunday",
+				"Monday",
+				"Tuesday",
+				"Wednesday",
+				"Thursday",
+				"Friday",
+				"Saturday" ],
+	"month" : [ 
+				"January",
+				"February",
+				"March",
+				"April",
+				"may",
+				"June",
+				"July",
+				"August",
+				"September",
+				"October",
+				"November",
+				"December"
+			],
+	"money" : "₹ ",
+	"catExists" : "Category already exists!",
+	"invalidData" : "Invalid input!",
+	"defaultCat" : "Market;Petrol;Snacks;Store",
+	"moneyInvalid" : "Invalid value!",
+	"noneExpanse" : "No expenses!",
+	"reset" : "Reseted!",
+	"confirm" : "Do you want to procced?",
+	"accept" : "CONTINUE",
+	"cancel" : "CANCEL"	
+}
